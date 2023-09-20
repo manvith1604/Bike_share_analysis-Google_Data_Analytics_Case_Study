@@ -3,14 +3,13 @@
 <img width="519" alt="Capture" src="https://www.datascienceportfol.io/static/profile_pics/pr0_65C0AE73ACFCA3D273CC.png">
 </p>
 
-## Quick Links:
 ### Data Source: [2022-Trip_data-Divvy-Bikes](https://divvybikes.com/system-data)
-### SQL Codes
+### SQL
 - [Merge Data](https://github.com/manvith1604/Bike_share_analysis-Google_Data_Analytics_Case_Study/blob/main/1.%20Merge%20Data.sql) 
 - [Manipulate data](https://github.com/manvith1604/Bike_share_analysis-Google_Data_Analytics_Case_Study/blob/main/2.%20Manipulate%20Data.sql)
 - [Analyze Data](https://github.com/manvith1604/Bike_share_analysis-Google_Data_Analytics_Case_Study/blob/main/3.%20Analyze%20Data.sql) 
 ### Visualization
-- Tableau: [Dashboard]()
+- Tableau : [Dashboard]()
 
 ## Introduction
 This case study presents a data analysis project conducted as part of the Google Data Analytics Professional Certificate course, Capstone Project, focusing on Cyclistic, a bike-share company.
