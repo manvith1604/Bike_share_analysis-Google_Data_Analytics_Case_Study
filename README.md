@@ -1,10 +1,10 @@
-# Case Study 1: Differentiating Casual Riders and Annual Members - Cyclistic Bike Share Analysis
+# How do Casual Riders and Annual Members differ?
 <p align="center">
-<img width="519" alt="Capture" src="https://github.com/Tayyaba-Abro/Case-Study-Cyclistic-Bike-Share-Analysis/assets/47588244/39b0b926-c041-4208-bf48-45b3b4dbabd9">
+<img width="519" alt="Capture" src="https://www.datascienceportfol.io/static/profile_pics/pr0_65C0AE73ACFCA3D273CC.png">
 </p>
 
 ## Quick Links:
-### Data Source: [divvy_tripdata](https://divvybikes.com/system-data)
+### Data Source: [2022-Trip_data-Divvy-Bikes](https://divvybikes.com/system-data)
 ### SQL Codes
 - [Merge Data](https://github.com/Tayyaba-Abro/Case-Study-Cyclistic-Bike-Share-Analysis/blob/main/1.%20Merge%20Data.sql) 
 - [Manipulate data](https://github.com/Tayyaba-Abro/Case-Study-Cyclistic-Bike-Share-Analysis/blob/main/2.%20Manipulate%20Data.sql)
