@@ -4,7 +4,7 @@
 </p>
 
 ## Quick Links:
-### Data Source: [divvy_tripdata](https://[divvy-tripdata.s3.amazonaws.com/index.html](https://divvybikes.com/system-data))
+### Data Source: [divvy_tripdata](https://divvybikes.com/system-data)
 ### SQL Codes
 - [Merge Data](https://github.com/Tayyaba-Abro/Case-Study-Cyclistic-Bike-Share-Analysis/blob/main/1.%20Merge%20Data.sql) 
 - [Manipulate data](https://github.com/Tayyaba-Abro/Case-Study-Cyclistic-Bike-Share-Analysis/blob/main/2.%20Manipulate%20Data.sql)
