@@ -1,1 +1,2 @@
-# Bike_share_analysis-Google_Data_Analytics_Case_Study
+# Bike share analysis - Google Data Analytics Case Study
+
