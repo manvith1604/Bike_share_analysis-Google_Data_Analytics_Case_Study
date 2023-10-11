@@ -9,7 +9,7 @@
 - [Manipulate data](https://github.com/manvith1604/Bike_share_analysis-Google_Data_Analytics_Case_Study/blob/main/2.%20Manipulate%20Data.sql)
 - [Analyze Data](https://github.com/manvith1604/Bike_share_analysis-Google_Data_Analytics_Case_Study/blob/main/3.%20Analyze%20Data.sql) 
 ### Visualization
-- Tableau : [Dashboard]() 
+- Tableau : [Dashboard](![Screenshot 2023-10-11 at 3 15 30 PM](https://github.com/manvith1604/Bike_share_analysis-Google_Data_Analytics_Case_Study/assets/66794160/916682ec-7c6d-4366-aa7a-3185d51ea05f)
 
 ## Introduction
 This case study presents a data analysis project conducted as part of the Google Data Analytics Professional Certificate course, Capstone Project, focusing on Cyclistic, a bike-share company.
